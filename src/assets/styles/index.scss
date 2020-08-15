@@ -7,4 +7,12 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f6fa;
+}
+
+.container {
+  max-width: 1280px;
+  min-width: 980px;
+  width: 100%;
+  margin: 0 auto;
 }
